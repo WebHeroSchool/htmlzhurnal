@@ -1,3 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+    font-style: italic; 
+    text-decoration: underline #FF00FF;
+    text-transform: uppercase;
+    transform: rotateZ(-5deg);
+    margin: 20px;
+    position: relative;
+    right: 2%;
+    padding-top: 2%;
+}
 span {
      background: #FF00FF; 
     color: #fff;
@@ -8,17 +23,6 @@ img{
     width:40%;
     margin-top: 0;
     background-size: cover;
-}
-h1 {
-     font-size: 60px;
-    font-style: italic; 
-    text-decoration: underline #FF00FF;
-    text-transform: uppercase;
-    transform: rotateZ(-5deg);
-    margin: 20px;
-    position: relative;
-    right: 2%;
-    padding-top: 2%;
 }
 .content{
     display: block;
